@@ -8,10 +8,10 @@
 </p>
 
 O protótipo de aplicativo para o Saúde App está acessível em:
-https://github.com/Bigodrigo/SaudeApp
+https://github.com/kauanvoltz/SaudeApp
 
 O website para o [Saúde Web](https://saude-web.vercel.app/), podemos enviar mensagens para o aplicativo!
-O projeto explicado está acessível em: https://github.com/Bigodrigo/SaudeWeb
+O projeto explicado está acessível em: https://github.com/kauanvoltz/SaudeWeb
 
 ## 🚀 Tecnologias
 
