@@ -10,7 +10,7 @@
 O protótipo de aplicativo para o Saúde App está acessível em:
 https://github.com/kauanvoltz/SaudeApp
 
-O website para o [Saúde Web](https://saude-web.vercel.app/), podemos enviar mensagens para o aplicativo!
+O website para o saúde Web, podemos enviar mensagens para o aplicativo!
 O projeto explicado está acessível em: https://github.com/kauanvoltz/SaudeWeb
 
 ## 🚀 Tecnologias
@@ -25,9 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Firebase](https://firebase.google.com/docs?hl=pt-br)
 - [Node e NPM](https://nodejs.org/)
 
-## 💻 Projeto
 
-Este site está hospedado na vercel apenas para garantir o envio de mensagens por API, para maiores informações verificar o git do App e Web!
 Para clonar este projeto é necessário adicionar os arquivos:
 - [ ] pages/api/utils/serviceAccountKey.json
 - [ ] app/lib/fireconfig.js
