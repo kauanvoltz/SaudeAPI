@@ -1,5 +1,4 @@
 # Notificações Saúde API
-## (Atualizado) - 22/05/2023
 ### Este projeto é servidor que recebe as mensagens e respostas enviadas pelo Aplicativo Saúde App e o Site Saúde Web.
 
 <p align="center">
